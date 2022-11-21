@@ -80,26 +80,21 @@ Installation position: floor, ceiling, walls.
 and click on the connect icon 
 
 3. click on the 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### output video and screen shots of pick and place 
 
+![203047625-a41811e2-4c82-4a9a-b163-ef14204cfbf4](https://user-images.githubusercontent.com/94165377/203061299-feb244b3-8a35-46e8-9f02-0a410aec0a5a.jpg)
+
+![203047637-52fdf183-55ae-49b3-958a-151023f4a6ab](https://user-images.githubusercontent.com/94165377/203061340-21974b85-e1ce-48f6-95fa-186dfbc05e3a.jpg)
+
+
+
+![0](https://user-images.githubusercontent.com/94165377/203061369-6e249710-4a80-4860-ac31-1435f8364345.png)
+### Robo Action:
+
+
+ 
+
+![203048017-73453678-b419-4e5d-9116-79883733817a](https://user-images.githubusercontent.com/94165377/203061598-3195cce6-4e9f-4ae2-ab0d-90ba3dd9bfbf.jpg)
 
 
 
@@ -107,6 +102,7 @@ and click on the connect icon
 
 
 ### Results: 
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
