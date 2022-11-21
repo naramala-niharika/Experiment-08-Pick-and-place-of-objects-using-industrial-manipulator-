@@ -84,7 +84,8 @@ and click on the connect icon
 ![r11](https://user-images.githubusercontent.com/94165377/203109885-05b8b85d-d14d-432c-91c2-66f09c2eea62.jpg)
 ![r12](https://user-images.githubusercontent.com/94165377/203109951-18a265eb-2086-4422-a486-b719f91943f5.jpg)
 
-![Uploading r13.jpg…]()
+
+![r13](https://user-images.githubusercontent.com/94165377/203110252-1a119c58-f5c8-40f2-93c5-f34b1d6b2300.jpg)
 
 
 
