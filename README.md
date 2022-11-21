@@ -81,21 +81,22 @@ and click on the connect icon
 
 3. click on the 
 ### output video and screen shots of pick and place 
+![r11](https://user-images.githubusercontent.com/94165377/203109885-05b8b85d-d14d-432c-91c2-66f09c2eea62.jpg)
+![r12](https://user-images.githubusercontent.com/94165377/203109951-18a265eb-2086-4422-a486-b719f91943f5.jpg)
 
-![203047625-a41811e2-4c82-4a9a-b163-ef14204cfbf4](https://user-images.githubusercontent.com/94165377/203061299-feb244b3-8a35-46e8-9f02-0a410aec0a5a.jpg)
-
-![203047637-52fdf183-55ae-49b3-958a-151023f4a6ab](https://user-images.githubusercontent.com/94165377/203061340-21974b85-e1ce-48f6-95fa-186dfbc05e3a.jpg)
+![Uploading r13.jpg…]()
 
 
 
-![0](https://user-images.githubusercontent.com/94165377/203061369-6e249710-4a80-4860-ac31-1435f8364345.png)
+
 ### Robo Action:
 
+![r14](https://user-images.githubusercontent.com/94165377/203110047-f091f162-8eae-413a-823b-9053b7fc4a53.jpg)
 
- 
+ ![r15](https://user-images.githubusercontent.com/94165377/203110063-79a851a7-897a-43f1-a6ad-419d9d80fd3d.jpg)
 
-![203048017-73453678-b419-4e5d-9116-79883733817a](https://user-images.githubusercontent.com/94165377/203061598-3195cce6-4e9f-4ae2-ab0d-90ba3dd9bfbf.jpg)
 
+![r16](https://user-images.githubusercontent.com/94165377/203110088-7472df9d-84e6-4baa-b344-c15dc46edc4e.jpg)
 
 
 
